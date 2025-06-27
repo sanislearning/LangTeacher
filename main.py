@@ -35,3 +35,5 @@ if __name__=="__main__":
     vectordb=store_chunks(chunks)
     rag=create_rag_chain(vectordb)
 
+    question="Explain what ML is."
+    print("Tutor says:",rag.run(question))
