@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+langchain-google-genai #langchain integration for Google GenAI
+chromadb #used for vector storage
+unstructured #used to read unstructured data
+pdfminer.six #used for low level pdf parsing
+python-docx #used for reading docx files
+python-dotenv
