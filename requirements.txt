@@ -9,3 +9,4 @@ python-docx #used for reading docx files
 python-dotenv
 langchain-huggingface
 sentence-transformers
+faiss-cpu
