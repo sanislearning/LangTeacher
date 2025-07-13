@@ -64,12 +64,6 @@ Open your browser at [http://localhost:8501](http://localhost:8501), upload a PD
 
 ---
 
-## 📸 Preview
-
-> *Optional: Add a screenshot or short GIF demo here*
-
----
-
 ## 🧠 Example Use Cases
 
 * Study from your own notes or books
