@@ -2,6 +2,7 @@
 
 LangTeacher is an AI-powered tutor that helps you interactively learn from any PDF. Just upload a document and start asking questions — your personal AI tutor will guide you with clear, simple answers based on the file content.
 
+[Try the LangTeacher App](https://langteacher.streamlit.app/)
 Built using [LangChain](https://www.langchain.com/), [Google Gemini](https://ai.google.dev/), and [Streamlit](https://streamlit.io/).
 
 ---
