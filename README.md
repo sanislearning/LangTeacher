@@ -77,7 +77,3 @@ Open your browser at [http://localhost:8501](http://localhost:8501), upload a PD
 Pull requests and suggestions are welcome! Feel free to open an issue or submit a PR.
 
 ---
-
-## 📄 License
-
-MIT License. See [LICENSE](LICENSE) for details.
