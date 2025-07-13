@@ -7,3 +7,4 @@ unstructured #used to read unstructured data
 pdfminer.six #used for low level pdf parsing
 python-docx #used for reading docx files
 python-dotenv
+langchain-huggingface
